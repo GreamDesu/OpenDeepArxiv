@@ -1,0 +1,52 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment directories
+venv/
+env/
+.venv/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage*
+.cache
+nosetests.xml
+coverage.xml
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# dotenv files containing sensitive credentials
+.env
+
+# IDE and editor settings
+.idea/
+.vscode/
+
+# Log files
+*.log
+
+# Output PDFs (generated reports)
+final_report.pdf
+
+# Generated embeddings and output data files
+*.npy
+*.csv
+*.json
+*.pkl
+*.pdf
+*.png
+*.html

@@ -1,0 +1,15 @@
+arxiv
+openai
+pandas
+numpy
+scikit-learn
+umap-learn
+torch
+transformers
+tqdm
+python-dotenv
+xhtml2pdf
+PyMuPDF
+matplotlib
+requests
+feedparser
